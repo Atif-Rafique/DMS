@@ -1,0 +1,17 @@
+<svg width="640" height="512" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <ellipse ry="96.055463" rx="193.513196" id="svg_7" cy="230.673325" cx="283.19043" stroke-opacity="0" stroke-width="0" stroke="#a31d1d" fill="#fe346e"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_4" y2="222.259708" x2="174.514541" y1="221.558573" x1="140.158938" fill-opacity="null" stroke-opacity="null" stroke="null" fill="none"/>
+  <ellipse stroke="#a31d1d" ry="5.609079" rx="27.694822" id="svg_11" cy="235.581269" cx="123.682271" stroke-opacity="0" stroke-width="0" fill="#f7e8ec"/>
+  <path id="svg_9" d="m104.401065,230.673325" opacity="0.5" stroke-opacity="0" stroke-width="0" stroke="#a31d1d" fill="#ffffff"/>
+  <ellipse stroke="#a31d1d" ry="8.764185" rx="8.764184" id="svg_13" cy="301.838502" cx="259.001278" stroke-opacity="0" stroke-width="0" fill="#f7e8ec"/>
+  <ellipse stroke="#a31d1d" ry="8.764185" rx="8.764184" id="svg_16" cy="301.137367" cx="287.046669" stroke-opacity="0" stroke-width="0" fill="#f7e8ec"/>
+  <ellipse stroke="#a31d1d" ry="8.764185" rx="8.764184" id="svg_17" cy="301.137367" cx="315.793195" stroke-opacity="0" stroke-width="0" fill="#f7e8ec"/>
+  <text stroke="null" transform="matrix(6.426401267267161,0,0,4.613247397809459,-1882.5303044118798,-758.2182559404603) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_2" y="223.593131" x="309.74102" stroke-opacity="null" stroke-width="0" fill="#ede1e1">DMS</text>
+ </g>
+</svg>
